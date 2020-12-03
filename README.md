@@ -1,10 +1,12 @@
+## Install pgAdmin 4 
+https://www.pgadmin.org/download/
+
+## Import database sql file to Postergersql
+dbBackup.sql is the database backup 
+
 ## Connect to Postgresql Database
 
 Add Postgresql database connection details in `server/db/connect.js` file
-
-## Add database tables
-
-Execute sql scripts from `server/scripts.sql` file
 
 ## To run the project execute following commands in sequence
 
